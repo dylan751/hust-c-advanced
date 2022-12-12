@@ -1,0 +1,16 @@
+/home/zuong/Documents/CAdvanced/Week5/phonebook-bt/b/CMakeFiles/rebuild_cache.dir
+/home/zuong/Documents/CAdvanced/Week5/phonebook-bt/b/CMakeFiles/edit_cache.dir
+/home/zuong/Documents/CAdvanced/Week5/phonebook-bt/b/CMakeFiles/phone-bt.dir
+/home/zuong/Documents/CAdvanced/Week5/phonebook-bt/b/cmake-btree/CMakeFiles/rebuild_cache.dir
+/home/zuong/Documents/CAdvanced/Week5/phonebook-bt/b/cmake-btree/CMakeFiles/edit_cache.dir
+/home/zuong/Documents/CAdvanced/Week5/phonebook-bt/b/cmake-btree/CMakeFiles/bigtdel.dir
+/home/zuong/Documents/CAdvanced/Week5/phonebook-bt/b/cmake-btree/CMakeFiles/bigt.dir
+/home/zuong/Documents/CAdvanced/Week5/phonebook-bt/b/cmake-btree/CMakeFiles/btr.dir
+/home/zuong/Documents/CAdvanced/Week5/phonebook-bt/b/cmake-btree/CMakeFiles/kcp.dir
+/home/zuong/Documents/CAdvanced/Week5/phonebook-bt/b/cmake-btree/CMakeFiles/corrupt.dir
+/home/zuong/Documents/CAdvanced/Week5/phonebook-bt/b/cmake-btree/CMakeFiles/bt-bin.dir
+/home/zuong/Documents/CAdvanced/Week5/phonebook-bt/b/cmake-btree/CMakeFiles/bt.dir
+/home/zuong/Documents/CAdvanced/Week5/phonebook-bt/b/cmake-btree/samples/CMakeFiles/rebuild_cache.dir
+/home/zuong/Documents/CAdvanced/Week5/phonebook-bt/b/cmake-btree/samples/CMakeFiles/btcopy.dir
+/home/zuong/Documents/CAdvanced/Week5/phonebook-bt/b/cmake-btree/samples/CMakeFiles/edit_cache.dir
+/home/zuong/Documents/CAdvanced/Week5/phonebook-bt/b/cmake-btree/samples/CMakeFiles/btsort.dir
