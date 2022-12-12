@@ -1,0 +1,16 @@
+Yêu cầu tuần 5
+
+Hiểu về B-tree
+ + Bắt đầu từ: Trang 483 - Slide sách
+ + Cây: Trang 490
+ + Tách nút: Trang 494 - 496
+ + Insert cây: Trang 498
+ 
+Cài đặt B-Tree:
+ + B1: Tạo thư mục b (hoặc bất kỳ tên gì khác) trong thư mục nguồn.
+ + B2: Trong b gọi lệnh: cmake .. -G Ninja
+ + B3: Sẽ có libbt.a nếu biên dịch thành công
+
+- Làm 1 chương trình đơn giản
++ Chức năng 1: Thêm liên lạc (Sau khi thoát vẫn lưu dữ liệu cũ)
++ Chức năng 2: Xuất danh sách liên lạc
