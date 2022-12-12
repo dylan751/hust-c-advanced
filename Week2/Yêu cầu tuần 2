@@ -1,0 +1,17 @@
+3.1. Cài đặt QuickSort
+  - Cài đặt giải thuật Introduction to Algorithms
+3.2. Thực nghiệm đo thời gian thực hiện giải thuật
+  - So sanh hiệu năng 3.1 và stdlib.h: qsort
+  
+----------------------------------------------------------------------------------------------
+3.3. Khái quát hóa 3.1 (Quick sort)
+(Xem ảnh screen shot)
+    3.3.1. Tái cấu trúc my qsort về giao diện tương tự qsort
+    3.3.2. Phát triển (khái quát hóa) my qsort để có thể tùy chỉnh sắp xếp tăng dần hoặc giảm dần
+    3.3.3. Khái quát hóa mu qsort để có thể sắp xếp dữ liệu thuộc nhiều kiểu khác nhau
+    3.3.4. Sắp xếp mảng phần tử có kiểu dữ liệu do người dùng tự định nghĩa
+
+3.4. Đưa 3.1 vào thư viện và tái sử dụng -> mylib.c
+
+[p, r] -> lấy hai đầu mút
+[p, r) -- Rất hay gặp

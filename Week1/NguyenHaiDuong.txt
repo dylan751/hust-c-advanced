@@ -1,0 +1,9 @@
+Phân tích thời gian chạy Quicksort
+
+100 phan tu: 0.000023
+1000 phan tu: 0.000276
+10000 phan tu: 0.003258
+100000 phan tu: 0.020253
+1000000 phan tu: 0.164869
+10000000 phan tu: 1.894042
+100000000 phan tu: 21.637809

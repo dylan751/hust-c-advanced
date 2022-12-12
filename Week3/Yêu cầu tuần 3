@@ -1,0 +1,12 @@
+Tuần 3
+1. Tạo thư viện tĩnh
+1.1. header guard (bảo vệ tiêu đề)
+1.2. cmake
++ qsort
+2. Sử dụng thư viện ở 1 để tạo ứng dụng
++ phone book
+
+Cmake + Ninja
+ - Sinh mô tả Ninja từ CMakeLists.txt
+ - Biên dịch bằng Ninja
+
