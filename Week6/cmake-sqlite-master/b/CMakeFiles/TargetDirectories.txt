@@ -1,0 +1,5 @@
+/home/zuong/Documents/CAdvanced/Week6/cmake-sqlite-master/b/CMakeFiles/rebuild_cache.dir
+/home/zuong/Documents/CAdvanced/Week6/cmake-sqlite-master/b/CMakeFiles/edit_cache.dir
+/home/zuong/Documents/CAdvanced/Week6/cmake-sqlite-master/b/CMakeFiles/select.dir
+/home/zuong/Documents/CAdvanced/Week6/cmake-sqlite-master/b/CMakeFiles/insert.dir
+/home/zuong/Documents/CAdvanced/Week6/cmake-sqlite-master/b/CMakeFiles/sqlite3.dir

@@ -1,0 +1,3 @@
+/home/zuong/Documents/CAdvanced/Week6/bookview/b/CMakeFiles/rebuild_cache.dir
+/home/zuong/Documents/CAdvanced/Week6/bookview/b/CMakeFiles/edit_cache.dir
+/home/zuong/Documents/CAdvanced/Week6/bookview/b/CMakeFiles/bookview.dir

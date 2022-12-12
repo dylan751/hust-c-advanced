@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated with glade 3.22.2 -->
+<interface>
+  <requires lib="gtk+" version="3.20"/>
+  <object class="GtkWindow" id="window-main">
+    <property name="can_focus">False</property>
+    <property name="default_width">800</property>
+    <property name="default_height">250</property>
+    <child type="titlebar">
+      <placeholder/>
+    </child>
+    <child>
+      <object class="GtkFrame">
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <property name="label_xalign">0</property>
+        <property name="shadow_type">none</property>
+        <child>
+          <object class="GtkAlignment">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="left_padding">12</property>
+            <child>
+              <object class="GtkTreeView" id="my-book-view">
+                <property name="visible">True</property>
+                <property name="can_focus">True</property>
+                <property name="enable_grid_lines">both</property>
+                <child internal-child="selection">
+                  <object class="GtkTreeSelection"/>
+                </child>
+              </object>
+            </child>
+          </object>
+        </child>
+        <child type="label">
+          <object class="GtkLabel">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="label" translatable="yes">My books</property>
+          </object>
+        </child>
+      </object>
+    </child>
+  </object>
+</interface>

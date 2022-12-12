@@ -1,0 +1,13 @@
+./configure
+--> Makefile
+make
+
+https://github.com/bangoc/cmake-sqlite
+https://github.com/bangoc/cmake-gtk
+
+Yêu cầu bài tập:
+- Làm 1 bảng đơn giản.
+STT   Title
+1     CProgramming
+2     Databases
+3     Networking

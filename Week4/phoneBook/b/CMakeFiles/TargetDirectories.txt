@@ -1,0 +1,9 @@
+/home/zuong/Documents/CAdvanced/Week4/phoneBook/b/CMakeFiles/edit_cache.dir
+/home/zuong/Documents/CAdvanced/Week4/phoneBook/b/CMakeFiles/phone-fdr.dir
+/home/zuong/Documents/CAdvanced/Week4/phoneBook/b/CMakeFiles/phone.dir
+/home/zuong/Documents/CAdvanced/Week4/phoneBook/b/CMakeFiles/sort.dir
+/home/zuong/Documents/CAdvanced/Week4/phoneBook/b/CMakeFiles/rebuild_cache.dir
+/home/zuong/Documents/CAdvanced/Week4/phoneBook/b/CMakeFiles/mylib.dir
+/home/zuong/Documents/CAdvanced/Week4/phoneBook/b/libfdr/CMakeFiles/rebuild_cache.dir
+/home/zuong/Documents/CAdvanced/Week4/phoneBook/b/libfdr/CMakeFiles/edit_cache.dir
+/home/zuong/Documents/CAdvanced/Week4/phoneBook/b/libfdr/CMakeFiles/fdr.dir
