@@ -1,0 +1,13 @@
+1. Tra cứu chuỗi -> mã số
+				 ->
+
+mã số: 0, 1, .... theo thứ tự thêm vào
+
+Chuỗi -> Mã số: Dùng cây tìm kiếm (cây đỏ-đen)/bảng băm
+				Cấu trúc tìm kiếm
+Mã số -> Chuỗi: Dùng Vecto/mảng động
+
+
+Logic cho 1 chuỗi:
+	Kiểm tra: Nếu đã có thì cấp id mới -> tìm kiếm
+	Nếu ngược lại (thấy lần đầu) thì cấp id
