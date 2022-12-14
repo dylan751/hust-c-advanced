@@ -1,0 +1,17 @@
+- Yêu cầu đề bài:
+	+ Cho Input.txt
+	+ <số lượng cạnh> <tính có hướng>  : 1 -> có hướng, 2 -> vô hướng
+	   VD   3                 1 
+
+	+ Danh sách các đỉnh cho bằng chữ:
+		A B
+		B C
+		C D
+	+ Yêu cầu: Nhập tên đỉnh	-> Xuất danh sách đỉnh kề theo chiều đi ra
+			   (Nếu đỉnh đã nhập không có trong đồ thị -> In ra: Dữ liệu không hợp lệ)
+			   VD: Input: A -> Output: B
+			   	   Input: F -> Output: Invalid
+
+
+	+ Bonus VỀ NHÀ:
+		- Đọc string -> Chuyển đổi thành ID -> Insert vector bằng ID -> Chuyển đổi lại thành String để hiển thị 
