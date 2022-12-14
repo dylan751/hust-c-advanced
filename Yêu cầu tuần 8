@@ -1,0 +1,6 @@
++ Yêu cầu tuần 8:
+
+- Xây dựng đồ thị + các thao tác cơ bản: 
+    + Có cạnh từ đỉnh này đến đỉnh khác hay k? Bậc vào, bậc ra ...
+    + Tra cứu cơ bản: Hỏi xem có bn đỉnh, bn cạnh, ...
+    + Xây dựng giải thuật xử lý đồ thị: Tìm kiếm theo chiều rộng từ đỉnh A.
