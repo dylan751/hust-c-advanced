@@ -1,0 +1,14 @@
+Ý tưởng:
+
+1 <- 2 <- 3
+  ->   ->
+
+Enque(Q, 5)
+1 <- 2 <- 3 <- 5
+->   ->   ->
+
+Dequeue(Q) - 1
+2 <- 3 <- 5
+  ->   ->
+
+-> Dùng double linked list trong thư viện libfdr
