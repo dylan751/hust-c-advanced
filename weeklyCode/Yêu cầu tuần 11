@@ -1,0 +1,5 @@
++ Trật tự Topo:
+    - Nếu có trật tự topo -> đồ thị là DAG (không có chu trình).
+    - Nếu có chu trình -> không có trật tự Topo.
+
++ Code Topo: thư viện Cgraph (Phần Structural_properties -> dòng 110)

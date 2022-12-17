@@ -1,0 +1,10 @@
+9
+insert_node create_node
+create_node malloc
+save_value insert_node
+free_tree free_node
+free_node free_key
+delete_node free_node
+free_tree delete_node
+main insert_node
+main free_tree
