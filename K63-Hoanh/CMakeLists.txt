@@ -1,0 +1,12 @@
+add_subdirectory(libfdr)
+
+add_executable(test1 test1.c)
+add_executable(test2 test2.c)
+add_executable(test3 test3.c)
+add_executable(test4 test4.c)
+add_executable(test5 de20192.c)
+target_link_libraries(test1 fdr)
+target_link_libraries(test2 fdr)
+target_link_libraries(test3 fdr)
+target_link_libraries(test4 fdr)
+target_link_libraries(test5 fdr)
