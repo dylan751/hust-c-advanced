@@ -1,0 +1,6 @@
+/home/zuong/Documents/CAdvanced/deThiCacNam/K64-1/b/CMakeFiles/rebuild_cache.dir
+/home/zuong/Documents/CAdvanced/deThiCacNam/K64-1/b/CMakeFiles/edit_cache.dir
+/home/zuong/Documents/CAdvanced/deThiCacNam/K64-1/b/CMakeFiles/K64.dir
+/home/zuong/Documents/CAdvanced/deThiCacNam/K64-1/b/libfdr/CMakeFiles/rebuild_cache.dir
+/home/zuong/Documents/CAdvanced/deThiCacNam/K64-1/b/libfdr/CMakeFiles/edit_cache.dir
+/home/zuong/Documents/CAdvanced/deThiCacNam/K64-1/b/libfdr/CMakeFiles/fdr.dir
