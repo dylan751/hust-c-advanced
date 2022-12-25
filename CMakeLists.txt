@@ -1,0 +1,4 @@
+add_subdirectory(cgraph)
+
+add_executable(thiLopKhac NguyenHaiDuong_20194530.c)
+target_link_libraries(thiLopKhac cgraph)
