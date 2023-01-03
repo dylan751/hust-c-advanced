@@ -74,7 +74,7 @@ int main() {
                 printf("Ho va ten: %s\n", "Nguyen Hai Duong");
                 printf("MSSV: %s\n", "20194530");
                 // DOC FILE
-                FILE *fptr = fopen("dichvu.txt", "r");
+                FILE *fptr = fopen("dichvu2.txt", "r");
                 if(fptr == NULL) {
                     printf("Khong the mo file dichvu.txt!\n");
                     return -1;
@@ -147,7 +147,7 @@ int main() {
                 cgraph_ivec_t res = cgraph_ivec_create();
                 cgraph_degree_all(g, &res, CGRAPH_IN, 1);
 
-                // DANH SACH PHU THUOC DAI NHAT -> TIM DICH VU CO BAC MAX
+                // TIM DICH VU CO BAC MAX
                 int max = res[0];
                 for(int i = 1; i < cgraph_ivec_size(res); i++) {
                     max = max > res[i] ? max : res[i];
@@ -263,7 +263,7 @@ int main() {
                 printf("--- Cac dich vu co tong thiet hai lon nhat ---\n");
                 for(int i = 0; i < num_v; i++) {
                     if(result[i] == max) {
-                        printf("%s %.0lf", V[i].name, result[i]);
+                        printf("%s %.0lf\n", V[i].name, result[i]);
                     }
                 }
                 printf("\n");
@@ -274,6 +274,7 @@ int main() {
             case '8': {
                 s2i_free(&s2i);
                 gtv_free(&i2s);
+
 
                 cgraph_ivec_free(&edges);
                 cgraph_ivec_free(&neis);
