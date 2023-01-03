@@ -1,0 +1,54 @@
+T1-Kiểm tra thông tin: 1 đ
+
+T2-Số lượng phụ thuộc trực tiếp: 1 đ
+13
+
+T3-Thiệt hại riêng lớn nhất: 1 đ
+s5 3000
+s8 3000
+
+T4-Danh sách dài nhất: 1 đ
+5 s1 s3 s4 s5 s6
+5 s2 s4 s7 s8 s9
+
+T5-Lan truyền.1: 0.5 đ
+Nhập: s0 s1
+Xuất: YES
+
+T5-Lan truyền.2: 0.5 đ
+Nhập: s1 s8
+Xuất: NO
+
+T5-Lan truyền.3: 0.5 đ
+Nhập: s2 s9
+Xuất: YES
+
+T5-Lan truyền.4: 0.5 đ
+Nhập: s6 s1
+Xuất: NO
+
+T6-Tổng thiệt hại.1: 0.5 đ
+Nhập: s3
+Xuất: 3520
+
+T6-Tổng thiệt hại.2: 0.5 đ
+Nhập: s4
+Xuất: 2900
+
+T6-Tổng thiệt hại.3: 0.5 đ
+Nhập: s2
+Xuất: 6100
+
+T6-Tổng thiệt hại.4: 0.5 đ
+Nhập: s0
+Xuất: 9730
+
+T7-Tổng thiệt hại lớn nhất. 1: 0.5 đ
+s0 9730
+
+T7-Tổng thiệt hại lớn nhất. 2: 0.5 đ
+sử dụng cp dichvu2.txt dichvu.txt
+b1234567890123456789 121111
+c1234567890123456789 121111
+
+Menu hoạt động đúng: 1 đ
